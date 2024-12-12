@@ -11,22 +11,22 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		B3BF2E1B2CE6607B007E1CDA /* Exceptions for "MiniAppOne" folder in "MiniAppOne" target */ = {
+		B3DAC1162D0B526C00EE16E4 /* Exceptions for "Sources" folder in "MiniAppOne" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			publicHeaders = (
-				MiniAppOne.h,
+				MiniAppOne/MiniAppOne.h,
 			);
 			target = B3BF2E152CE6607B007E1CDA /* MiniAppOne */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B3BF2E182CE6607B007E1CDA /* MiniAppOne */ = {
+		B3DAC10E2D0B526700EE16E4 /* Sources */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				B3BF2E1B2CE6607B007E1CDA /* Exceptions for "MiniAppOne" folder in "MiniAppOne" target */,
+				B3DAC1162D0B526C00EE16E4 /* Exceptions for "Sources" folder in "MiniAppOne" target */,
 			);
-			path = MiniAppOne;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,8 +45,8 @@
 		B3BF2E0C2CE6607A007E1CDA = {
 			isa = PBXGroup;
 			children = (
-				B3BF2E182CE6607B007E1CDA /* MiniAppOne */,
 				B3BF2E172CE6607B007E1CDA /* Products */,
+				B3DAC10E2D0B526700EE16E4 /* Sources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -85,7 +85,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				B3BF2E182CE6607B007E1CDA /* MiniAppOne */,
+				B3DAC10E2D0B526700EE16E4 /* Sources */,
 			);
 			name = MiniAppOne;
 			packageProductDependencies = (
